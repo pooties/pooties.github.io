@@ -1,3 +1,133 @@
 * {
 	text-decoration: none;
 }
+html
+{
+	color: #555;
+	background: #ebeeee;
+	background-position: right; !important;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;!important;
+	font-family: 'Open Sans';
+	font-size: 11pt!important;
+}
+
+.navigation
+{
+	position: fixed;
+	width: 237;
+	left: -217;
+	background:url(http://www.gbgl-hq.com/demoness/html/navarrow.png);
+	background-position: 17px !important;
+	background-repeat:none;
+}
+
+.navigation ul
+{
+	list-style-type: none;
+}
+
+.navigation ul li a:hover, a:active, a:link
+{
+	text-decoration: none;
+	color: #32558a;
+	font-family: 'Open Sans';
+	font-size: 11pt!important;
+	font-weight: 400 !important;
+}
+
+.navigation ul li a:visited
+{
+	text-decoration: none;
+	color: #1e3252;
+	font-family: 'Open Sans';
+	font-size: 11pt!important;
+	font-weight: 400 !important;
+}
+
+#wrapper
+{
+	margin-top:30px;
+	margin-left: auto;
+	margin-right: auto;
+	width:80%
+}
+
+
+.navigation ul
+{
+	width: 215;
+	padding:0px;
+	margin:0px;
+	color:#555;
+	list-style:none;
+	text-indent:10px;
+	font-size: 11pt!important;
+	font-weight: 400;
+	border-top: 3px solid #777 !important;
+	border-right: 1px solid #777 !important;
+	border-bottom:none !important;
+}
+
+.navigation ul li
+{
+	background:#eee;
+	line-height:18px;
+}
+
+.navigation ul li a
+{
+	text-decoration:none;
+	color:#555;
+	display:block;
+	border-bottom: 1px solid #777 !important;
+	margin-top:-2px !important;
+}
+
+.navigation ul li a:hover
+{
+	text-decoration:none;
+	background:  #ddd;
+	display:block;
+	margin-top:-2px !important;
+}
+
+#wrapper ol
+{
+	list-style-type: none;
+}
+
+.h
+{
+	font-size: 16pt;
+	font-weight: 400;
+}
+
+a.visited{
+color: white;
+}
+
+.h2
+{
+	background-position: right; !important;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	font-size: 26pt;
+	font-weight: 600;
+	text-align: center;
+}
+
+.h3
+{
+	font-size: 11pt;
+	text-align:center;
+}
+
+.gsc-control-cse {
+	background: none !important;
+	border: none !important;
+}
+*{
+	text-decoration: none;
+}
