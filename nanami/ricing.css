@@ -104,8 +104,8 @@ html
 	font-weight: 400;
 }
 
-a.visited{
-	color: white;
+a:visited {
+    color: #294570;
 }
 
 .h2
