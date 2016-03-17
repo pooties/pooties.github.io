@@ -104,6 +104,10 @@ html
 	font-weight: 400;
 }
 
+a.visited{
+color: white;
+}
+
 .h2
 {
 	background-position: right; !important;
